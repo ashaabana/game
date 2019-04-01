@@ -2,7 +2,7 @@ from room import Room
 from character import Enemy, Character
 from character_test import dave
 
-from item import Item
+# from item import Item
 
 dave.set_conversation("i will beat you")
 dave.talk()
